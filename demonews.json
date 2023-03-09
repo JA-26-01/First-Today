@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Aicha El Hammar Castano",
+            "title": "European Commission bans TikTok from employees' phones, citing cybersecurity threat",
+            "description": "Employees will have to delete the app before March 15, the Commission said.",
+            "url": "https://abcnews.go.com/Technology/european-commission-bans-tiktok-employees-phones-citing-cybersecurity/story?id=97417631",
+            "urlToImage": "https://s.abcnews.com/images/Technology/tik-tok-gty-rc-230216_1676568525805_hpMain_2_16x9_992.jpg",
+            "publishedAt": "2023-02-23T20:53:00Z",
+            "content": "European Commission employees will have to remove TikTok from their work phones for security reasons, the European Union's executive body said Thursday.\r\nThe Commission said in a statement that all i… [+1824 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Peter Kafka",
+            "title": "YouTube CEO Susan Wojcicki is leaving, replaced by Neal Mohan",
+            "description": "One of the most prominent women in tech — and one of Google’s earliest employees — is stepping down.",
+            "url": "https://www.vox.com/recode/2023/2/16/23602636/youtube-ceo-susan-wojcicki-leaving-neal-mohan",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/IG5lP9dCRaodH5WS6vTrUJaeh6g=/0x253:3456x2062/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16331727/Susan_Wojcicki_2.0.jpg",
+            "publishedAt": "2023-02-16T17:02:56Z",
+            "content": "YouTube CEO Susan Wojcicki, who has led the worlds largest video site for the last nine years, is stepping down from her role. Shell be replaced by Neal Mohan, her longtime lieutenant.\r\nIn a letter s… [+6550 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Shirin Ghaffary",
+            "title": "After Meta’s stock jump, an executive warned employees that they’re still “at the whim of Apple”",
+            "description": "Though the company’s stock jumped, it’s still facing big challenges from Apple, TikTok, and younger users.",
+            "url": "https://www.vox.com/recode/2023/2/15/23599734/meta-facebook-stock-apple-competition-tiktok-mark-zuckerberg-alex-schultz",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/d57ZP3noa6b5XXAI6cuY6QW5hEI=/0x226:2394x1479/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24432584/1440405373.jpg",
+            "publishedAt": "2023-02-15T11:00:00Z",
+            "content": "Meta had an abysmal 2022. The value of its stock fell by 65 percent year over year, it laid off 11,000 people, and employee morale has suffered. \r\nThere are signs things are turning around, though: E… [+5780 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Cameron Joseph",
+            "title": "Tara Reade Is Now Being Investigated For Allegedly Lying on the Witness Stand",
+            "description": "Reade has accused Biden of sexually assaulting her when she was an employee of his Senate office in 1993.",
+            "url": "https://www.vice.com/en_us/article/m7je3b/tara-reade-is-now-being-investigated-for-allegedly-lying-on-the-witness-stand",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ece95b99054e1009b3e58f4/lede/1590597812648-Tara-Reade.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T16:45:33Z",
+            "content": "The Monterey County, California District Attorneys office has begun investigating whether Tara Reade lied under oath, an official told Politico.\r\n Reade, who at the time went by Alexandra McCabe, spe… [+2033 chars]"
+        }
+    ]
+}
