@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/First_Today/static/css/main.073c9b0a.css",
+    "main.js": "/First_Today/static/js/main.9eb9233f.js",
+    "static/js/787.419af693.chunk.js": "/First_Today/static/js/787.419af693.chunk.js",
+    "static/media/loading.gif": "/First_Today/static/media/loading.fe03c37c16fd8ca79209.gif",
+    "index.html": "/First_Today/index.html",
+    "main.073c9b0a.css.map": "/First_Today/static/css/main.073c9b0a.css.map",
+    "main.9eb9233f.js.map": "/First_Today/static/js/main.9eb9233f.js.map",
+    "787.419af693.chunk.js.map": "/First_Today/static/js/787.419af693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9eb9233f.js"
+  ]
+}
